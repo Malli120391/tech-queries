@@ -12,4 +12,10 @@
   
 </b></details>
 
+<details>
+<summary>2. SQL Vs NoSQL:Cheat Sheet - AWS,AZURE,Google Cloud.?</summary><br><b>
 
+👇
+  * Refer -  https://github.com/cloudnloud/tech-queries/blob/main/aws/SQL%20Vs%20NoSQL-Cheat%20Sheet.jpg
+  
+</b></details>
