@@ -15,6 +15,9 @@
   <tr>
     <td align="center"><a href="aws/README.md"><img src="images/aws.png" width="75x;" height="75px;" alt="AWS-Queries"/><br /><b>AWS-Queries</b></a></td>
   </tr>
+   <tr>
+    <td align="center"><a href="k8s/README.md"><img src="images/kubernetes.png" width="75x;" height="75px;" alt="k8s"/><br /><b>k8s</b></a></td>
+  </tr>
 </table>
 </center>
 <!-- markdownlint-enable -->
