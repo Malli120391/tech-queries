@@ -13,7 +13,7 @@
     <td align="center"><a href="Fresher-Queries/README.md"><img src="images/fresher-questions.png" width="75x;" height="75px;" alt="Fresher-Queries"/><br /><b>Fresher-Queries</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="Fresher-Queries/README.md"><img src="images/fresher-questions.png" width="75x;" height="75px;" alt="Fresher-Queries"/><br /><b>Fresher-Queries</b></a></td>
+    <td align="center"><a href="aws/README.md"><img src="images/aws.png" width="75x;" height="75px;" alt="AWS-Queries"/><br /><b>AWS-Queries</b></a></td>
   </tr>
 </table>
 </center>
