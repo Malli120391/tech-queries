@@ -18,6 +18,9 @@
    <tr>
     <td align="center"><a href="k8s/README.md"><img src="images/kubernetes.png" width="75x;" height="75px;" alt="k8s"/><br /><b>k8s</b></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="interview-questions/README.md"><img src="images/interview-questions.png" width="75x;" height="75px;" alt="interview-questions"/><br /><b>interview-questions</b></a></td>
+  </tr>
 </table>
 </center>
 <!-- markdownlint-enable -->
