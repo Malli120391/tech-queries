@@ -6,6 +6,8 @@
 
 <details>
 <summary>1.  DevOps Interview Questions - 200
+👇
+* Refer -  https://github.com/cloudnloud/tech-queries/blob/main/interview-questions/200-DevOps-Interview-Questions.pdf
   
 </b></details>
 
@@ -13,26 +15,30 @@
   
   
 <summary>2.Ansible Full Course
-  
+👇
+* Refer -  https://github.com/cloudnloud/tech-queries/blob/main/interview-questions/Ansible-Full-Course.pdf
 </b></details>
 
 <details>
   
   
 <summary>3.DeOps Interview Questions
-  
+👇
+* Refer -  https://github.com/cloudnloud/tech-queries/blob/main/interview-questions/DevOps-Interview-Questions.pdf
 </b></details>
 
 <details>
   
   
 <summary>4.Kubernetes simple notes
-  
+👇
+* Refer -  https://github.com/cloudnloud/tech-queries/blob/main/interview-questions/Kubernetes-simple-notes.pdf
 </b></details>
 
 <details>
   
   
 <summary>5.What is Kubernetes Helm
-  
+👇
+* Refer -  https://github.com/cloudnloud/tech-queries/blob/main/interview-questions/What-is-Kubernetes-Helm.pdf
 </b></details>
